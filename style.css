@@ -1,0 +1,282 @@
+*
+{
+    margin: 0;
+    padding: 0;  
+}
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0.5)), url("JJ_plays.jpg");
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+    background-position: center;    
+}
+
+.main-nav
+{
+    float:right;
+    list-style:none;
+    margin-top: 30px;
+}
+.main-nav li
+{
+    display: inline-block;
+    
+}
+.main-nav li a
+{
+    color:white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: : 15px;
+    float: top;
+}
+.main-nav li.active a
+{    
+    border: 1px solid white;
+}
+.main-nav li a:hover
+{
+    border: 1px solid white;
+}
+.logo img
+{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+body
+{
+    font-family: monospace;
+}
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+.video1
+{
+    float: left;
+    font-size: 12px;
+    position: absolute;
+    top: 75;
+    left: 25;
+    color:dodgerblue;
+    font-family: cursive;
+}
+.video2
+{
+
+    float: right;    
+    position: absolute;
+    left: 600;
+    top: 425;
+    color: dodgerblue;
+    font-family: cursive; 
+}
+.soundcloud
+{
+    float: bottom;
+    position: absolute;
+    top: 75;
+    left: 50;
+    color: dodgerblue;
+    font-family: cursive;
+}
+.remixes
+{
+    float: bottom;
+    position: absolute;
+    top: 85;
+    left: 650;
+    color: dodgerblue;
+    font-family: cursive;
+}
+.experimental
+{
+    float: bottom;
+    position: absolute;
+    top: 450;
+    left: 650;
+    color: dodgerblue;
+    font-family: cursive;
+}
+.soundbank
+{
+    float:bottom;
+    color:dodgerblue;
+    position: absolute;
+    top: 75;
+    left: 50;
+    font-family: cursive;
+}
+
+.info
+{
+    float: right;
+    color: white;
+    position: absolute;
+    font-size: 20;
+    top: 450;
+    left: 350;
+    right: 200;
+    font-family: inherit;
+}
+.info li a{
+    color: dodgerblue;   
+}
+
+.anya
+{
+    font-size: 12px;
+    float:  left;
+    position: absolute;
+    top: 60;
+    left: 25;
+    color: dodgerblue;
+    font-family: cursive;   
+}
+.ours
+{
+    font-size: 12px;
+    float:  left;
+    position: absolute;
+    top: 60;
+    left: 600;
+    color: dodgerblue;
+    font-family: cursive;   
+}
+.GearsBlood{
+    font-size: 12px;
+    float: right;
+    position: absolute;
+    top: 410;
+    left: 25;
+    color: dodgerblue;
+    font-family: cursive;
+    
+}
+.DJfunk{
+    float: right;
+    position: absolute;
+    top: 75;
+    left: 50;
+    color: dodgerblue;
+    font-family: cursive;
+    
+}
+.DJset1{
+    float:right;
+    position: absolute;
+    top: 400;
+    left: 300;
+    color: dodgerblue;
+    font-family: cursive;
+}
+.DJset2{
+    float:right;
+    position: absolute;
+    top: 75;
+    left: 600;
+    color: dodgerblue;
+    font-family: cursive;
+}
+p
+{
+    float:center;
+    font-size: 22;
+    color: white;
+    font-family: inherit; 
+    top: 300;
+    right: 300;
+    left: 400;
+    position: absolute;
+    
+}
+p1{
+    float: right;
+    font-size: 16;
+    color: white;
+    font-family: inherit;
+    top: 550;
+    left: 600;
+    right: 50;
+    position: absolute;    
+}
+p2{
+    float: right;
+    font-size: 16;
+    color: white;
+    font-family: inherit;
+    top: 300;
+    left: 600;
+    right: 50;
+    position: absolute;    
+}
+p3{
+    float: right;
+    font-size: 20;
+    color: white;
+    font-family: inherit;
+    top: 150;
+    left: 600;
+    right: 200;
+    position: absolute;    
+}
+p4{
+    float: right;
+    font-size: 20;
+    color: white;
+    font-family: inherit;
+    top: 250;
+    left: 600;
+    right: 50;
+    position: absolute;    
+}
+p5{
+    float: right;
+    font-size: 20;
+    color: white;
+    font-family: inherit;
+    top: 600;
+    left: 50;
+    right: 750;
+    position: absolute;    
+}
+p6{
+    float: right;
+    font-size: 20;
+    color: white;
+    font-family: inherit;
+    top: 150;
+    left: 75;
+    right: 50;
+    position: absolute;    
+}
+.synth img{
+    float: right;
+    top: 150;
+    left: 600;
+    position: absolute;    
+}
+.synth h1{
+    float: right;
+    top: 75;
+    color: dodgerblue;
+    left: 100;
+    position: absolute; 
+    font-family: cursive;
+}
+.synth p1{
+    float: right;
+    font-size: 20;
+    top: 150;
+    color: white;
+    left: 100;
+    right: 750;
+    position: absolute; 
+    font-family: inherit;   
+}
+.synth p1 li a{color: dodgerblue;}
+
